@@ -1,0 +1,20 @@
+.container{
+    background:rgba(20,20,20,0.8);
+    position:absolute;
+    top:0;
+    right:0;
+    left:0;
+    bottom: 0;
+}
+
+.popup_area{
+    margin:0;
+    background:yellow;
+    position:absolute;
+    height:20rem;
+    width:40rem;
+    left:50%;
+    top:50%;
+    margin-right:-50%;
+    transform:translate(-50%,-50%);
+}
